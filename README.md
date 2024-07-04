@@ -59,7 +59,7 @@ Predicted culverts in a small section of the test watersheds. The model captured
 ## Implementation
 Culvert density in the areas of Sweden covered by the ALS data. North-western Sweden was missing ALS data during this study and could not be included. The colours represent the number of detected culverts per square kilometre. Densely populated areas like Gothenburg and Stockholm have a higher culvert density than the more scarcely populated areas in the north.
 
-[alt text](images/figure%204.jpg)
+[alt text](images/figure_4.jpg)
 
 ## Conclusions
 The deep learning model detected 87 % of the culverts with a recall of 18% so future research should focus on reducing the number of false positives. Burning detected road culverts into DEMs before extracting streams improved the accuracy of extracted stream networks by 17%, and topographically extracted stream networks were more accurate than stream networks on current maps in Sweden.
